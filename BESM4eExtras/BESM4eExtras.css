@@ -136,62 +136,62 @@ input.sheet-health[value="9"] ~ div.sheet-health {
     background: linear-gradient(to left, white 90%, green 10%);    
 }
     input.sheet-health[value="9"] ~ div.sheet-health:before {
-        content:"Lightly Wounded";
+        content:"Winded";
     }
 input.sheet-health[value="8"] ~ div.sheet-health {
     background: linear-gradient(to left, white 80%, green 20%);
 }
     input.sheet-health[value="8"] ~ div.sheet-health:before {
-        content:"Lightly Wounded";
+        content:"Winded";
     }
 input.sheet-health[value="7"] ~ div.sheet-health {
     background: linear-gradient(to left, white 70%, green 30%);
 }
     input.sheet-health[value="7"] ~ div.sheet-health:before {
-        content: "Lightly Wounded";
+        content: "Winded";
     }
 input.sheet-health[value="6"] ~ div.sheet-health {
     background: linear-gradient(to left, white 60%, yellow 40%);
 }
     input.sheet-health[value="6"] ~ div.sheet-health:before {
-        content: "Seriously Wounded";
+        content: "Tired";
     }
 input.sheet-health[value="5"] ~ div.sheet-health {
     background: linear-gradient(to left, white 50%, yellow 50%);
 }
     input.sheet-health[value="5"] ~ div.sheet-health:before {
-        content: "Seriously Wounded";
+        content: "Tired";
 }
 input.sheet-health[value="4"] ~ div.sheet-health {
     background: linear-gradient(to left, white 40%, yellow 60%);
 }
     input.sheet-health[value="4"] ~ div.sheet-health:before {
-        content: "Seriously Wounded";
+        content: "Tired";
 }
 input.sheet-health[value="3"] ~ div.sheet-health {
     background: linear-gradient(to left, white 30%, orange 70%);
 }
     input.sheet-health[value="3"] ~ div.sheet-health:before {
-        content: "Critically Wounded";
+        content: "Exhausted";
 }
 input.sheet-health[value="2"] ~ div.sheet-health {
     background: linear-gradient(to left, white 20%, orange 80%);
 }
     input.sheet-health[value="2"] ~ div.sheet-health:before {
-        content: "Critically Wounded";
+        content: "Exhausted";
 }
 input.sheet-health[value="1"] ~ div.sheet-health {
     background: linear-gradient(to left, white 10%, orange 90%);
 }
     input.sheet-health[value="1"] ~ div.sheet-health:before {
-        content: "Critically Wounded";
+        content: "Exhausted";
 }
 input.sheet-health[value="0"] ~ div.sheet-health {
     background: red;
     color: white;
 }
     input.sheet-health[value="0"] ~ div.sheet-health:before {
-        content: "Mortally Wounded";
+        content: "Unconcious";
 }
 
 /* Energy */
@@ -199,68 +199,68 @@ input.sheet-energyspent[value="10"] ~ div.sheet-energyspent {
     background: white;
 }
 input.sheet-energyspent[value="10"] ~ div.sheet-energyspent:before {
-        content:"Rested";
+        content:"Calm";
     }
 input.sheet-energyspent[value="9"] ~ div.sheet-energyspent {
     background: linear-gradient(to left, white 90%, green 10%);    
 }
     input.sheet-energyspent[value="9"] ~ div.sheet-energyspent:before {
-        content:"Active";
+        content:"Turned on";
     }
 input.sheet-energyspent[value="8"] ~ div.sheet-energyspent {
     background: linear-gradient(to left, white 80%, green 20%);
 }
     input.sheet-energyspent[value="8"] ~ div.sheet-energyspent:before {
-        content:"Active";
+        content:"Turned on";
     }
 input.sheet-energyspent[value="7"] ~ div.sheet-energyspent {
     background: linear-gradient(to left, white 70%, green 30%);
 }
     input.sheet-energyspent[value="7"] ~ div.sheet-energyspent:before {
-        content: "Active";
+        content: "Turned on";
     }
 input.sheet-energyspent[value="6"] ~ div.sheet-energyspent {
     background: linear-gradient(to left, white 60%, yellow 40%);
 }
     input.sheet-energyspent[value="6"] ~ div.sheet-energyspent:before {
-        content: "Weary";
+        content: "Excited";
     }
 input.sheet-energyspent[value="5"] ~ div.sheet-energyspent {
     background: linear-gradient(to left, white 50%, yellow 50%);
 }
     input.sheet-energyspent[value="5"] ~ div.sheet-energyspent:before {
-        content: "Weary";
+        content: "Excited";
 }
 input.sheet-energyspent[value="4"] ~ div.sheet-energyspent {
     background: linear-gradient(to left, white 40%, yellow 60%);
 }
     input.sheet-energyspent[value="4"] ~ div.sheet-energyspent:before {
-        content: "Weary";
+        content: "Excited";
 }
 input.sheet-energyspent[value="3"] ~ div.sheet-energyspent {
     background: linear-gradient(to left, white 30%, orange 70%);
 }
     input.sheet-energyspent[value="3"] ~ div.sheet-energyspent:before {
-        content: "Winded";
+        content: "Close";
 }
 input.sheet-energyspent[value="2"] ~ div.sheet-energyspent {
     background: linear-gradient(to left, white 20%, orange 80%);
 }
     input.sheet-energyspent[value="2"] ~ div.sheet-energyspent:before {
-        content: "Winded";
+        content: "Close";
 }
 input.sheet-energyspent[value="1"] ~ div.sheet-energyspent {
     background: linear-gradient(to left, white 10%, orange 90%);
 }
     input.sheet-energyspent[value="1"] ~ div.sheet-energyspent:before {
-        content: "Winded";
+        content: "Close";
 }
 input.sheet-energyspent[value="0"] ~ div.sheet-energyspent {
     background: red;
     color: white;
 }
     input.sheet-energyspent[value="0"] ~ div.sheet-energyspent:before {
-        content: "Exhausted";
+        content: "Finish";
 }
 
 /* Sanity */
